@@ -1,2 +1,2 @@
 # TheGym
-Practice data where I store trials and improve upon technical skills.
+Where I come to train and porve my skill.
