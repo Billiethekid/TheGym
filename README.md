@@ -1,2 +1,2 @@
 # TheGym
-Where I come to train and porve my skill.
+Where I come to train and imporve upon my skill.
